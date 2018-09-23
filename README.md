@@ -1,6 +1,9 @@
  # Project 1 : Build a Portfolio 
 
 
+* Project developed as part of Udacity Front-End Developer Nanodegree 
+
+
 * This project displays a static webpage written in HTML and CSS from a design mock-up. 
 
 * This page is responsive and displays well on the following devices : 
