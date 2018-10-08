@@ -13,5 +13,5 @@
 * Images used in this project are from www.pixabay.com and are copyright free.
 * This project utilizes a grid based layout using flexbox.
 
-* The website can be accessed by opening the index.html file in the browser.
+* View the Project, click here [Portfolio](https://faazaah.github.io/Portfolio/)
 
