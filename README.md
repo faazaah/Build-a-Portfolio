@@ -8,7 +8,7 @@
 
 * This page is fully responsive and displays well on the following devices : 
 
-* Desktops, Laptops, Apple iPad and Google Nexus 5 (tested on Google Chrome Dev Tools).
+  * Desktops, Laptops, Apple iPad and Google Nexus 5 (tested on Google Chrome Dev Tools).
 
 * Images used in this project are from www.pixabay.com and are copyright free.
 
