@@ -10,7 +10,7 @@
 
   * Desktops, Laptops, Apple iPad and Google Nexus 5 (tested on Google Chrome Dev Tools).
 
-* Images used in this project are from www.pixabay.com and are copyright free.
+* Images used in this project are from [Pixabay](https://pixabay.com/) and are copyright free.
 
  ### Resources
  
