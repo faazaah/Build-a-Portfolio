@@ -17,5 +17,5 @@
   * [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS/Shorthand_properties)
   * Courses on [Udacity](https://www.udacity.com/)
   
-To view the Project, click here [Portfolio](https://faazaah.github.io/Portfolio/)
+To view the Project, click here [Portfolio](https://faazaah.github.io/Build-a-Portfolio/)
 
